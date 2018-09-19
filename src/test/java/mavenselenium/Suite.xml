@@ -1,0 +1,9 @@
+<suite name = "TestStuite">
+<test name="FirstTest">
+<classes>
+<class name="mavenselenium.Annotations"/>
+<class name="mavenselenium.DataDriven"/>
+<class name="mavenselenium.BasicAnnotations"/>
+</classes>
+</test>
+</suite>
